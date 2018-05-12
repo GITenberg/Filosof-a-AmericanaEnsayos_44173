@@ -1,0 +1,28 @@
+_repo: Filosof-a-AmericanaEnsayos_44173
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44173-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molina, Enrique
+    alias: Garmendia, Enrique Molina
+    birthdate: 1871
+    deathdate: 1964
+    gutenberg_agent_id: '42619'
+    url: http://www.gutenberg.org/2009/agents/42619
+description: ''
+gutenberg_issued: '2013-11-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44173'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, American'
+- !lcsh 'National characteristics, American'
+- !lcc 'E151'
+title: 'Filosofía Americana: Ensayos'
+url: http://www.gutenberg.org/ebooks/44173
